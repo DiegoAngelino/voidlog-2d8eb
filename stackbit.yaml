@@ -1,0 +1,24 @@
+stackbitVersion: ~0.3.0
+ssgName: gatsby
+publishDir: public
+pagesDir: src/pages
+models:
+  page:
+    type: page
+    label: Page
+    match: '**/*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: list
+        name: tags
+        label: Tags
+        items:
+          type: string
+      - type: date
+        name: date
+        label: Date
+      - type: string
+        name: spoiler
+        label: Spoiler
