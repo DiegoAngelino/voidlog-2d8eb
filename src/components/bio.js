@@ -39,7 +39,7 @@ const Bio = () => {
       </div>
       <p style={{ maxWidth: 180 }}>
       Siamo tutti alla ricerca di qualcosa
-      <br>
+      <br/>
       che riempia un vuoto
       </p>
     </div>
