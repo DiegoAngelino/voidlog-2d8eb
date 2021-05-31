@@ -38,9 +38,7 @@ const Bio = () => {
         <Img fluid={data.placeholderImage.childImageSharp.fluid} alt="阿江" />
       </div>
       <p style={{ maxWidth: 180 }}>
-        Blog by <a href="https://twitter.com/anikijiang">anikijiang</a>
-        <br />
-        I make my point
+      Siamo tutti alla ricerca 
       </p>
     </div>
   )
