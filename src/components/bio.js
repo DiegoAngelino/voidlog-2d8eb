@@ -38,7 +38,8 @@ const Bio = () => {
         <Img fluid={data.placeholderImage.childImageSharp.fluid} alt="阿江" />
       </div>
       <p style={{ maxWidth: 180 }}>
-      Siamo tutti alla ricerca di qualcosa che col
+      Siamo tutti alla ricerca di qualcosa
+      <
       </p>
     </div>
   )
