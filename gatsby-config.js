@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `void-log`,
     author: `Void, you guess it`,
-    description: `A personal blog`,
+    description: `A personal blog, the log of the trip`,
     siteUrl: `https://gatsby-starter-point.netlify.app/`,
     social: {
       twitter: `anikijiang`,
