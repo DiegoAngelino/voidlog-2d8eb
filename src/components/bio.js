@@ -38,7 +38,7 @@ const Bio = () => {
         <Img fluid={data.placeholderImage.childImageSharp.fluid} alt="阿江" />
       </div>
       <p style={{ maxWidth: 180 }}>
-      diario di viaggio
+      diario di viaggio vuoto
       </p>
     </div>
   )
