@@ -22,29 +22,6 @@ class Layout extends React.Component {
               no social links here
             </a>{" "}
             &bull;{" "}
-            <a
-              href="https://instagram.com/veryben"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              instagram
-            </a>{" "}
-            &bull;{" "}
-            <a
-              href="https://github.com/teaware"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              github
-            </a>{" "}
-            &bull;{" "}
-            <a
-              href="https://codepen.io/farm-boy"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              codepen
-            </a>
           </div>
         </footer>
       </div>
