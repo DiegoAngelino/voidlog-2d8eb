@@ -20,3 +20,4 @@ In breve, avevo perso un sacco di tempo.
 Nel frattempo e' arrivato Instagram, ho pensato "*Bello, un luogo dove mettere tutte le mie foto, e condividerle con i miei amici! Qui non si pu&ograve; scrivere, nessuno potr&agrave; postare fake news e giudizi approssimativi e qualunquisti! Solo foto, e magari di bei paesaggi!*"
 **SBAGLIATO**
 
+Mi sono ritrovato nella stessa situazione, ma su un 
