@@ -17,4 +17,4 @@ I primi social che ho usato sono stati un abominio (in tutti i sensi, date un oc
 
 In breve, avevo perso un sacco di tempo.
 
-Nel frattempo e' arrivato Instagram, ho pensato "*Bello, un luogo dove mettere tutte le mie foto, e condividerle con i miei amici! Qui non si pu
+Nel frattempo e' arrivato Instagram, ho pensato "*Bello, un luogo dove mettere tutte le mie foto, e condividerle con i miei amici! Qui non si pu&ograve; scrivere, nessuno 
