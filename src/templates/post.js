@@ -72,7 +72,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "DD, YYYY")
+        date(formatString: "DD - MM - YYYY")
         spoiler
         tags
       }
