@@ -39,5 +39,5 @@ Ma quello che mi chiedo sempre quando mi accorgo di passare troppo tempo a fare 
 > Cosa ne sto ottenendo?
 
 
-Visto che questo post si sta dilungando un p&ograve; troppo e 
+Visto che questo post si sta dilungando un p&ograve; troppo e rischia di uscire fuori tema, 
 Per ora &egrave; tutto, a presto.
