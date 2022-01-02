@@ -35,7 +35,7 @@ const Bio = () => {
           overflow: "hidden",
         }}
       >
-        <Img fluid={data.placeholderImage.childImageSharp.fluid} alt="阿江" />
+        <Img fluid={data.placeholderImage.childImageSharp.fluid} alt="void" />
       </div>
       <p style={{ maxWidth: 180 }}>
       diario di viaggio,<br/>tutto da scrivere
