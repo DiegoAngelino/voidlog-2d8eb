@@ -22,7 +22,7 @@ class Layout extends React.Component {
             </a>{" "}
             &bull;{" "}
             <a
-              href="/tags"
+              href="/"
               target="_blank"
               rel="noopener noreferrer"
             >
