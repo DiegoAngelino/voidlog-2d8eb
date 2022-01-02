@@ -4,4 +4,5 @@ tags: []
 date: '2022-01-03'
 spoiler: No, dico seriamente, non ne hai?
 ---
-ebbene si
+Ebbene si, non ne ho.
+O meglio, 
