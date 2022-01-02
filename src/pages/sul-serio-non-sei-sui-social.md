@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Sul serio non sei sui social?
 tags: []
 date: '2022-01-02'
 spoiler: lorem-ipsum
