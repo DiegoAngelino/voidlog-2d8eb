@@ -30,4 +30,4 @@ Non si tratta di codice, ma di psicologia.
 
 L'intera interfaccia e interazione che l'utente ha con l'app (*i.e.* UX), &egrave; studiata in modo che possa rilasciare quanta pi&ugrave; dopamina possibile, rendendo di fatto l'utente - secondo me - di fatto dipendente. E il tutto per poterlo profilare al meglio e proporgli pubblicit&agrave; sempre pi&ugrave; azzeccate al suo stile di vita, i suoi gusti fino a riuscire ad antacipare e guidare i suoi desideri.
 
-Detto in breve, ho sfruttato il [diritto all'oblio](https://www.garanteprivacy.it/regolamentoue/oblio) e ho fatto cancellare i miei dati da Facebook e 
+Detto in breve, ho sfruttato il [diritto all'oblio](https://www.garanteprivacy.it/regolamentoue/oblio) e ho fatto cancellare i miei dati da Facebook e Instagram
