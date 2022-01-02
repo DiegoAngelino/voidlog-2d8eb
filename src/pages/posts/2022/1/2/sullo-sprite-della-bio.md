@@ -2,7 +2,7 @@
 title: Sullo sprite della bio
 tags: []
 date: '2022-01-02'
-spoiler: Da dove arriva quell?
+spoiler: Da dove arriva quel avatar?
 ---
 ![Sprite-as-aService](sprite-as-a-service-header.png)
 
