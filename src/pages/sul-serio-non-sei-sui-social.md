@@ -23,4 +23,4 @@ Nel frattempo e' arrivato Instagram, ho pensato "*Bello, un luogo dove mettere t
 Mi sono ritrovato nella stessa situazione, ma su un'app diversa.
 Ho provato diverse volte semplicemente a disabilitare le app incrimite o a disistallarle, ma ci ricascavo sempre.
 
-Nel frattempo, un docufilm su Neflix veniva rilsciato *The social dilemma*. Questo mostrava come ogni social network fosse studiato appositamente per far passare alle persone pi&ugrave; tempo possibile 
+Nel frattempo, un docufilm su Neflix veniva rilsciato *The social dilemma*. Questo mostrava come ogni social network fosse studiato appositamente per far passare alle persone pi&ugrave; tempo possibile sulla loro app.
