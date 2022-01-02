@@ -3,7 +3,7 @@ module.exports = {
     title: `void-log`,
     author: `Void, you guess it`,
     description: `A personal blog, the log of the trip`,
-    siteUrl: `https://voidlog-2d8eb.netlify.app/`,
+    siteUrl: `https://gatsby-starter-point.netlify.app/`,
     social: {
       twitter: ``,
     },
