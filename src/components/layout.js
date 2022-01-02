@@ -14,7 +14,7 @@ class Layout extends React.Component {
           © {new Date().getFullYear()}{" "}
           <div className="social-links">
             <a
-              href="#"
+              href="/tags"
               target="_blank"
               rel="noopener noreferrer"
             >
