@@ -2,7 +2,7 @@
 title: Sul serio non sei sui social?
 tags: []
 date: '2022-01-03'
-spoiler: "Fuggite, sciocchi!
+spoiler: No, dico seriamente, non ne hai?
 ---
 ![Illustration by Grabbins](social.png)
 *Illustration by [Grabbins](https://www.heygrabbins.com/)*
