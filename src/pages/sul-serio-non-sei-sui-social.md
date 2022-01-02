@@ -13,4 +13,4 @@ Non lo so.
 &Eacute; questa la verit&aacute;, non lo so.
 
 Ma questo &egrave; quello che provo a fare io armai da almeno un annetto.
-I primi social che ho usato sono stati un abomio (in tutti i sensi), date un occhio a [questo articolo](https://www.lemacchinevolanti.it/approfondimenti/archeologia-dei-social-network) che descrive i primi social diffusi in Italia. Ah, nenache a dirlo, li si usava solo dal PC 
+I primi social che ho usato sono stati un abomio (in tutti i sensi), date un occhio a [questo articolo](https://www.lemacchinevolanti.it/approfondimenti/archeologia-dei-social-network) che descrive i primi social diffusi in Italia. Ah, nenache a dirlo, li si usava solo dal PC. 
