@@ -27,3 +27,4 @@ Nel frattempo, un docufilm su Neflix veniva rilsciato *The social dilemma*. Ques
 Incredibile &egrave; che nemmeno gli stessi CEO o addetti ai lavori in generale ne fossero immuni. 
 
 Non si tratta di codice, ma di psicologia.
+
