@@ -13,3 +13,4 @@ Non lo so.
 &Eacute; questa la verit&aacute;, non lo so.
 
 Ma questo &egrave; quello che provo a fare io armai da almeno un annetto.
+I primi social che ho usato 
