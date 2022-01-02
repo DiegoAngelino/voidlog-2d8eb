@@ -2,7 +2,7 @@
 title: Sullo sprite della bio
 tags: []
 date: '2022-01-02'
-spoiler: Come ho fatto a genere un avatar cos&igrave;?
+spoiler: Da dove arriva quell?
 ---
 ![Sprite-as-aService](sprite-as-a-service-header.png)
 
