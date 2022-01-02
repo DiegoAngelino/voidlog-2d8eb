@@ -13,7 +13,6 @@ class Layout extends React.Component {
         <footer>
           © {new Date().getFullYear()}{" "}
           <div className="social-links">
-                          </a>{" "}
             &bull;{" "}
             <a
               href="#"
