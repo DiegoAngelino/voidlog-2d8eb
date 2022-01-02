@@ -4,7 +4,7 @@ tags: []
 date: '2022-01-03'
 spoiler: No, dico seriamente, non ne hai?
 ---
-![illustration by]
+![Illustration by]
 Ebbene si, non ne ho.
 O meglio, ne ho pochi, e quelli che ho non li uso un granch&eacute;.
 
