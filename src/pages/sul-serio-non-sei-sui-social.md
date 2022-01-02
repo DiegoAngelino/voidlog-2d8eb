@@ -25,3 +25,5 @@ Ho provato diverse volte semplicemente a disabilitare le app incrimite o a disis
 
 Nel frattempo, un docufilm su Neflix veniva rilsciato *The social dilemma*. Questo mostrava come ogni social network fosse studiato appositamente per far passare alle persone pi&ugrave; tempo possibile sulla loro app.
 Incredibile &egrave; che nemmeno gli stessi CEO o addetti ai lavori in generale ne fossero immuni. 
+
+Non si tratta di codice, ma di psicologia.
