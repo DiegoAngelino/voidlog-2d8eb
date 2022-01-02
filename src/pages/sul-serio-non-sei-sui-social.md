@@ -21,4 +21,5 @@ Nel frattempo e' arrivato Instagram, ho pensato "*Bello, un luogo dove mettere t
 **SBAGLIATO**
 
 Mi sono ritrovato nella stessa situazione, ma su un'app diversa.
-Ho provato diverse volte semplicemente a disabilitare le app incrimite o a disistallarle, ma 
+Ho provato diverse volte semplicemente a disabilitare le app incrimite o a disistallarle, ma ci ricascavo sempre.
+
