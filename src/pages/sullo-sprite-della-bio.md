@@ -12,5 +12,4 @@ Si tratta di un generatore di avatar, ma non lo descriver&ograve; oltre, perch&e
 
 e lo ha fatto [QUI!](https://github.com/ljvmiranda921/sprites-as-a-service).
 
-Per ora &egrave; tutto,
-a presto
+Per ora &egrave; tutto, a presto
