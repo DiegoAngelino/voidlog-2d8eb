@@ -37,5 +37,6 @@ Ma quello che mi chiedo sempre quando mi accorgo di passare troppo tempo a fare 
 > Mi serve? 
 > Cosa ne sto ottenendo?
 
+#
 
 Per ora &egrave; tutto, a presto.
