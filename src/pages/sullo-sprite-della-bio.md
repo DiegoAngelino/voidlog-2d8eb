@@ -1,5 +1,5 @@
 ---
-title: 'Sullo sprite della '
+title: Sullo sprite della bio
 tags: []
 date: '2022-01-02'
 spoiler: lorem-ipsum
