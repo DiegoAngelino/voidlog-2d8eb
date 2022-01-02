@@ -5,4 +5,4 @@ date: '2022-01-03'
 spoiler: No, dico seriamente, non ne hai?
 ---
 Ebbene si, non ne ho.
-O meglio, 
+O meglio, ne ho pochi
