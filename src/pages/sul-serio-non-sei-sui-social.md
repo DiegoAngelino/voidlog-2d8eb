@@ -17,4 +17,4 @@ I primi social che ho usato sono stati un abominio (in tutti i sensi, date un oc
 
 In breve, avevo perso un sacco di tempo.
 
-Nel frattempo e' arrivato Instagram, 
+Nel frattempo e' arrivato Instagram, ho pensato "
