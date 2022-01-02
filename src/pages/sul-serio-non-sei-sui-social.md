@@ -37,4 +37,4 @@ Ma quello che mi chiedo sempre quando mi accorgo di passare troppo tempo a fare 
 >Cosa ne sto ottenendo?
 
 
-Per ora &egrave; tutto, a presto
+Per ora &egrave; tutto, a presto.
