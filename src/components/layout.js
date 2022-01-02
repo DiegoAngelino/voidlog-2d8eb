@@ -18,7 +18,7 @@ class Layout extends React.Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              twitter
+              no
             </a>{" "}
             &bull;{" "}
             <a
