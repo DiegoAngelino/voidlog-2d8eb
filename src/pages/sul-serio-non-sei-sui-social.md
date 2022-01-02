@@ -28,4 +28,4 @@ Incredibile &egrave; che nemmeno gli stessi CEO o addetti ai lavori in generale 
 
 Non si tratta di codice, ma di psicologia.
 
-L'intera interfaccia e interazione che l'utente ha con l'app (*i.e.* UX), &egrave; studiata in modo che 
+L'intera interfaccia e interazione che l'utente ha con l'app (*i.e.* UX), &egrave; studiata in modo che possa rilasciare quante pi
