@@ -28,7 +28,6 @@ class Layout extends React.Component {
             >
               no social links here
             </a>{" "}
-            &bull;{" "}
           </div>
         </footer>
       </div>
