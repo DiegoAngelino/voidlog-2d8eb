@@ -8,3 +8,4 @@ Ebbene si, non ne ho.
 O meglio, ne ho pochi, e quelli che ho non li uso un granch&eacute;.
 
 In molti, moltissimi hanno detto la loro sul potere *distrattivo* dei social nework, ma come cavolo si fa oggi nel 2022 a non rimanere intrappolati in quella melma succhia sangue senza non rimanere fuori dal mondo?
+Non lo so.
