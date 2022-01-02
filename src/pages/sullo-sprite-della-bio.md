@@ -10,7 +10,7 @@ La descrizione aveva attirato la mi attenzione, cos&igrave; sono ho dato una sbi
 
 Si tratta di un generatore di avatar, ma non lo descriver&ograve; oltre, perch&egrave; l'autore lo ha fatto molto meglio di quanto potrei farlo io
 
-e lo ha fatto \[QUI!]\(https://github.com/ljvmiranda921/sprites-as-a-service).
+e lo ha fatto \[QUI!](https://github.com/ljvmiranda921/sprites-as-a-service).
 
 Per ora \&egrave; tutto,
 
