@@ -33,5 +33,5 @@ L'intera interfaccia e interazione che l'utente ha con l'app (*i.e.* UX), &egrav
 Detto in breve, ho sfruttato il [diritto all'oblio](https://www.garanteprivacy.it/regolamentoue/oblio) e ho fatto cancellare i miei dati da Facebook e Instagram. Questo ovviamente non mi esclude dalla profilazione: utilizzo Google, Whatsapp, Youtube, Reddit (anche se spesso metto un limite di tempo all'utilizzo dell'app), e molti altri servizi di uso comune.
 
 Ma quello che mi chiedo sempre quando mi accorgo di passare troppo tempo a fare qualcosa - in questo caso sui social
-> Mi serve? 
-> Cosa ne sto ottenendo?
+>Mi serve? 
+>Cosa ne sto ottenendo?
