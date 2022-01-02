@@ -2,7 +2,7 @@
 title: Sullo sprite della bio
 tags: []
 date: '2022-01-02'
-spoiler: lorem-ipsum
+spoiler: Dove ho 
 ---
 Navigando nel web, una volta mi sono imbattuto in un post su [Reddit](https://www.reddit.com/) in cui lo sviluppatore  pubblicizzava il proprio progetto su [GitHub](https://github.com/) (succede spesso su Reddit).
 
