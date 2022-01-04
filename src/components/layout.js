@@ -22,7 +22,7 @@ class Layout extends React.Component {
             </a>{" "}
             &bull;{" "}
             <a
-              href="#"
+              href="/sul-serio-non-sei-sui-social"
               target="_blank"
               rel="noopener noreferrer"
             >
