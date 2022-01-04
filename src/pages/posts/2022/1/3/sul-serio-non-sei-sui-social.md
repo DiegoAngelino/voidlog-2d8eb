@@ -1,6 +1,6 @@
 ---
 title: Sul serio non sei sui social?
-tags: []
+tags: ["miscellaneous", "riflessioni"]
 date: '2022-01-03'
 spoiler: Fuggite, sciocchi! [cit.]
 ---

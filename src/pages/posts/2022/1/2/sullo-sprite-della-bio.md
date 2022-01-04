@@ -1,6 +1,6 @@
 ---
 title: Sullo sprite della bio
-tags: []
+tags: ["miscellaneous", "projects"]
 date: '2022-01-02'
 spoiler: Da dove arriva quel avatar?
 ---
